@@ -1,0 +1,1420 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v19/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\jost\v19\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeK0bGMr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeK0bGMr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeK4aGMr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeK4aGMr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeKcaWMr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeKcaWMr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeKka2Mr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeKka2Mr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeLAamMr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeLAamMr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeLQb2Mr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeLQb2Mr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_6XJnvUD7dzB2KZeLsbWMr.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_6XJnvUD7dzB2KZeLsbWMr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_7XJnvUD7dzB2KZeJ8TkM.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_7XJnvUD7dzB2KZeJ8TkM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2C2_84bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2C2_84bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2C4_04bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2C4_04bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2Ck_k4bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2Ck_k4bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2Cr_s4bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2Cr_s4bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2Cv_44bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2Cv_44bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2Cx_w4bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2Cx_w4bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_8XJnvUD7dzB2Cy_g4bg.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_8XJnvUD7dzB2Cy_g4bg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_9XJnvUD7dzB2CA9oY.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_9XJnvUD7dzB2CA9oY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W_9XJnvUD7dzB2KZdoY.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W_9XJnvUD7dzB2KZdoY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prompt/v11/-W__XJnvUD7dzB26Zw.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\s\prompt\v11\-W__XJnvUD7dzB26Zw.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/about
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\about.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/daterangepicker.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\daterangepicker.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/fontawesome.min.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/main.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\main.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/nice-select.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/odometer.min.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\odometer.min.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/swiper.min.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/css/venobox.min.css
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\css\venobox.min.css
+Content Type: text/css
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-light-300.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-light-300.woff2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-thin-100.ttf
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://theme-canvas-trails.netlify.app/assets/fonts/fa-thin-100.woff2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/bg-img/offer-bg-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\bg-img\offer-bg-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/author-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\author-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/blog-details-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\blog-details-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/blog-details-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\blog-details-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/blog-details-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\blog-details-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/comment-thumb-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\comment-thumb-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/inner-post-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\inner-post-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/inner-post-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\inner-post-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/inner-post-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\inner-post-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-1.jpg
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-2.jpg
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-3.jpg
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-7.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-7.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-8.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-8.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/post-9.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\post-9.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/reply-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\reply-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/sidebar-thumb-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\sidebar-thumb-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/sidebar-thumb-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\sidebar-thumb-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/sidebar-thumb-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\sidebar-thumb-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/blog/sidebar-thumb-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\blog\sidebar-thumb-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/cancel.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\cancel.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-10.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-10.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-7.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-7.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-8.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-8.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/desti-img-9.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\desti-img-9.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-details-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-details-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-details-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-details-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-details-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-details-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-details-img-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-details-img-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-img-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-img-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-img-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-img-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/destination/destination-img-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\destination\destination-img-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/favicon.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/about-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\about-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/about-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\about-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/about-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\about-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/booking-video-btn.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\booking-video-btn.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/cta-vide-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\cta-vide-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/desti-icon.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\desti-icon.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/hero-google.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\hero-google.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/hero-icon-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\hero-icon-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/hero-icon-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\hero-icon-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/hero-icon-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\hero-icon-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/hero-icon-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\hero-icon-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/line.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\line.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-7.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-7.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/promo-8.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\promo-8.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/quote.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\quote.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-promo-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-promo-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-promo-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-promo-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-promo-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-promo-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-promo-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-promo-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-promo-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-promo-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/icon/service-promo-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\icon\service-promo-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/about-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\about-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/about-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\about-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/about-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\about-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/about-img-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\about-img-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/faq-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\faq-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/flag.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\flag.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/footer-gallary-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\footer-gallary-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/footer-gallary-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\footer-gallary-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/footer-gallary-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\footer-gallary-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/footer-gallary-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\footer-gallary-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/footer-gallary-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\footer-gallary-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/footer-gallary-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\footer-gallary-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/hero-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\hero-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/hero-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\hero-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/hero-men.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\hero-men.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/offer-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\offer-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/offer-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\offer-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/package-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\package-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/package-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\package-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/package-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\package-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/service-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\service-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/service-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\service-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/images/service-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\images\service-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/logo/logo-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\logo\logo-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/logo/logo-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\logo\logo-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/logo/logo-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\logo\logo-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/about-shape-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\about-shape-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/about-shape-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\about-shape-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/faq-shape-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\faq-shape-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/faq-shape-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\faq-shape-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/faq-shape-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\faq-shape-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/faq-shape-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\faq-shape-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/hero-img-shape-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\hero-img-shape-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/hero-map.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\hero-map.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/hero-text.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\hero-text.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/quote.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\quote.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/team-item-shape-2.svg
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\team-item-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/team-item-shape-3.svg
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\team-item-shape-3.svg
+Content Type: image/svg+xml
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/shapes/team-item-shape.svg
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\shapes\team-item-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/sponsor/sponsor-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\sponsor\sponsor-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/sponsor/sponsor-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\sponsor\sponsor-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/sponsor/sponsor-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\sponsor\sponsor-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/sponsor/sponsor-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\sponsor\sponsor-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/sponsor/sponsor-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\sponsor\sponsor-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/sponsor/sponsor-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\sponsor\sponsor-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/team/team-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\team\team-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/team/team-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\team\team-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/team/team-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\team\team-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/author-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\author-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/author-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\author-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/author-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\author-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/client-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\client-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/client-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\client-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/client-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\client-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/sponsor.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\sponsor.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/testi/testi-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\testi\testi-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-details-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-details-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-details-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-details-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-details-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-details-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-details-img.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-details-img.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-img-1.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-img-1.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-img-2.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-img-2.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-img-3.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-img-3.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-img-4.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-img-4.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-img-5.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-img-5.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/img/tour/tour-img-6.png
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\img\tour\tour-img-6.png
+Content Type: image/png
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/contact.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\contact.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/main.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/bootstrap-bundle.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\bootstrap-bundle.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/daterangepicker.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\daterangepicker.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/gsap.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/imagesloaded-pkgd.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\imagesloaded-pkgd.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/jquary-3.6.0.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\jquary-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/jquery.isotope.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\jquery.isotope.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/meanmenu.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\meanmenu.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/moment.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/nice-select.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\nice-select.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/odometer.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/scroll-trigger.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\scroll-trigger.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/smooth-scroll.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/split-type.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\split-type.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/swiper.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/venobox.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/assets/js/vendor/waypoints.min.js
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\assets\js\vendor\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://theme-canvas-trails.netlify.app/blog-details
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\blog-details.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/blog-grid
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\blog-grid.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/blog-grid-2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\blog-grid-2.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/contact
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/destination
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\destination.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/destination-details
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\destination-details.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/index-2
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\index-2.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/index-3
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\index-3.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/tour
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\tour.html
+Content Type: text/html
+
+Uri: https://theme-canvas-trails.netlify.app/tour-details
+File Name: C:\Users\Mizanur Rahman\OneDrive\Desktop\Travel Seller\theme-canvas-trails.netlify.app\tour-details.html
+Content Type: text/html
+
